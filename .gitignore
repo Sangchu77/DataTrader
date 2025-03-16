@@ -2,3 +2,7 @@ venv/
 .env
 __pycache__/
 *.pyc
+logs
+Airflow/
+access_token.json
+krx_stock_data.csv
